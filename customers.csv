@@ -1,0 +1,101 @@
+customer_id,name,age,region,risk_level
+1,Allison Hill,32,East Jill,Low
+2,Stephanie Miller,53,Johnsonland,Low
+3,Jonathan Johnson,35,Lake Debra,Medium
+4,Connie Lawrence,29,Port Lindachester,Low
+5,Christopher Bernard,22,Curtisfurt,Low
+6,Ryan Munoz,45,Lake Stephenville,Low
+7,Jamie Arnold,21,Barbaraland,Low
+8,Darren Roberts,71,Port Jesseville,Low
+9,Jesse Flowers,53,West Michael,Medium
+10,Mia Sutton,18,New Cynthiaside,Medium
+11,Carla Gray,38,Lake Mark,Medium
+12,Amy Underwood,61,Richardland,Low
+13,Tommy Walter,45,Jasonfort,High
+14,Thomas Ellis,61,Donaldside,Low
+15,Nicole Patterson,66,Coxberg,Low
+16,Ann Williams,62,East Courtneychester,Medium
+17,Janice Carlson,23,Riceside,Medium
+18,Alexandra Le,33,Kaylamouth,High
+19,Jeffrey Chavez,66,Teresaburgh,Low
+20,Ashley Garrett,55,East Nathaniel,Medium
+21,Troy Nielsen,64,New Mariotown,Low
+22,Jack Galloway,26,Johnbury,Low
+23,Theresa Miller,47,Cabreraside,Medium
+24,Betty Alvarez,28,West Allison,Medium
+25,Tracey Hickman,30,Lake Larry,Low
+26,Marie Kim DDS,76,East Jeffreymouth,Medium
+27,Julian Chapman,64,North Jeanton,Low
+28,Taylor Heath,63,New Johnfort,Low
+29,Carlos Walls,52,Sanchezfort,Medium
+30,Cheryl Davis,27,Gomezchester,Medium
+31,Nicholas Nunez,39,North Richardmouth,Low
+32,Ashley Lee,49,Taylorburgh,Low
+33,David Leblanc,66,Mortonside,Low
+34,Matthew Fernandez,46,North Sarabury,Medium
+35,John Lewis,25,Barreraburgh,Low
+36,William Baker,22,Mitchellside,Medium
+37,Katelyn Lee,69,North Beth,Low
+38,Nicole Brown,45,Shawhaven,High
+39,Tyler Miller,58,North Brooke,Low
+40,Cynthia Wilson,81,New Brooke,Low
+41,Jennifer Silva,76,Sarahborough,Low
+42,Emily Baker,35,Lake Debbie,Low
+43,Timothy Walls,51,South Christineshire,Medium
+44,Angel Lewis MD,72,Nicolebury,Medium
+45,Christopher Bass,69,Cherylhaven,Low
+46,Robert Evans,35,East Josephville,Low
+47,Brittney Campbell,29,Lake Matthew,Medium
+48,Sarah Wagner,32,Rebeccaton,Low
+49,Jeff Hill,38,West Kellieview,Medium
+50,Jeremy Thornton,72,North Charlesberg,Low
+51,Sandra Aguilar,67,South David,Low
+52,Steven Flynn,77,West Jasonbury,Low
+53,Heather Castro,19,Dicksonberg,Medium
+54,Cynthia Martin,32,South Angel,Medium
+55,Evelyn Galvan,52,West Erik,Medium
+56,Janet Williams,61,Walkermouth,Low
+57,Robert Savage,73,North Donna,Low
+58,Donald Jones,18,Michaelhaven,High
+59,William Herrera,51,North Natalieview,High
+60,Victor Baker,40,New Ryanmouth,Low
+61,William Wilson,31,West Bradley,Medium
+62,Joseph Drake,56,West Ryan,Medium
+63,Tammie Hanson,82,Lake Rachelhaven,Medium
+64,Jason Powell,37,Angelaborough,Low
+65,Todd Byrd,38,New Ashley,Low
+66,Roy Torres,85,South Kristi,High
+67,Erica Ramos,59,New Thomas,Low
+68,Rebecca Jackson,32,West Zacharymouth,High
+69,Trevor Young,57,Jeffreyborough,Low
+70,Angel Riggs,48,South Robertshire,Medium
+71,Michael Snyder,28,East Diana,Low
+72,Paul Carrillo,80,Port Ronaldburgh,Medium
+73,Melissa Marshall,34,Port David,Low
+74,John Schmidt,78,Stephaniemouth,High
+75,Michelle Wagner,39,Merrittfort,Low
+76,Paul Larsen,72,Katiehaven,High
+77,Mr. Jeremiah Reeves,43,West Matthew,Medium
+78,Angela Hernandez,69,Bensonborough,High
+79,Jason Daniels,65,Brownchester,Low
+80,Randy Shah,84,Port Nicoleshire,Low
+81,Aaron Bell,49,Castanedachester,Low
+82,Morgan Marsh,61,South Jeffrey,Low
+83,Allen Rogers,47,Ramseymouth,Low
+84,Veronica Ferguson,18,Vargastown,Low
+85,Jeffrey Camacho,25,North Jorge,Low
+86,Jesse Rogers,22,Ramirezchester,Medium
+87,Bradley Smith,27,West Jeffreyland,Low
+88,Marissa Webster,53,East Mary,Medium
+89,Cynthia Wells,45,New Staciemouth,Low
+90,Pamela Jackson,78,Port Loriport,Low
+91,Alexander Collins,78,Sandersborough,Medium
+92,Michael Burton,42,Lake Kendraville,Low
+93,Kylie Williams,73,Stanleyland,Low
+94,Gloria Atkinson,70,Garciastad,Low
+95,Sandra Zimmerman,24,Thompsonhaven,Medium
+96,Debra Morton,30,Marshallshire,Low
+97,Samuel Rivas,61,West Nicolebury,Medium
+98,Laura Barnett,31,Anthonymouth,Low
+99,Daniel Salinas,42,Joshuaview,Low
+100,Kellie Lee,35,Lake Richard,Low
