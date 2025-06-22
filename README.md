@@ -22,6 +22,11 @@ Created a Python script to generate mock data for:
 **transactions** (1,000 total)
 
 #### Deployed a PostgreSQL instance on AWS RDS, uploaded the data, and connected Metabase to it - enabling the creation of SQL-based insights and visual dashboards.
+🐳 Metabase was run locally using Docker with the command:
+
+```docker run -d -p 3000:3000 --name metabase metabase/metabase```
+
+Opened Metabase on http://localhost:3000 after running the container.
 
 ### Dashboard Insights Examples:
 
